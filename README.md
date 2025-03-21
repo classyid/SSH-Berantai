@@ -2,7 +2,7 @@
 
 Alat bantu SSH dengan kemampuan koneksi berantai dan monitoring via Telegram.
 
-![SSH-Berantai Banner](https://via.placeholder.com/800x400?text=SSH+Berantai)
+![SSH-Berantai Banner](https://blog.classy.id/upload/gambar_berita/2257e285f30e3bceccfaa835f3f59324_20250321081523.jpeg)
 
 ## 🌟 Fitur Utama
 
